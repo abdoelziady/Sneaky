@@ -1,0 +1,844 @@
+
+/* small */
+@media (max-width:767px)
+{
+    
+    /* Start Section Home */
+    .home .listdiv ,.home .block
+    {
+        display: none;
+    }   
+    
+     .home .imghome
+    {
+        height:450px;
+        width:100%;
+    }
+    
+    .carousel-indicators {
+    left:340px;
+    bottom:190px;
+}
+    .home .h1
+{
+    font-size: 35px;
+} 
+   
+    .home .starthome
+{
+    text-align: center;
+    margin-top: 20px;
+}      
+    
+ .home .watchimg
+{
+    margin-top:-50px;
+    margin-left:135px;
+    padding-bottom: 70px;
+    
+}
+    
+    .home .linkhome
+{
+margin-right:-30px;
+    font-size: 15px;
+}
+    
+    .home .watchimg img
+{
+   width:20px;
+    height:20px;
+}
+    
+    .home .btnhome
+    {
+        margin-right: 100px;
+        margin-top:-50px;
+    }
+        
+.home .btnhome ,.about .secondabout .btnabout ,.offer .btnoffer ,.Reservation .resercolor .btnreser ,.book .card form .btncard
+{
+    width: 107px;
+    height:40px;
+    font-size: 0.9rem;
+}
+
+       .about , .features ,.offer ,.Reservation ,.menu ,.chef ,.book ,.blog ,.footer
+{
+margin-top:100px;    
+}
+      /* End Section Home */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////*/
+     /* Start Section About */
+    
+    .about .firstabout .twoimage
+{
+    width:260px;
+    height:270px;
+    top:44%;
+    left:45%;
+} 
+    .about .secondabout
+    {
+        margin-top:70px;
+    }
+
+
+
+.about .secondabout .display-4
+{
+    font-size:28px;
+}
+    
+    .about .secondabout p
+{
+    padding-bottom:10px;
+    padding-top:10px;
+    
+}
+    /* End Section About */
+    
+    /* Start Section Features */
+
+.features .firstfeatures span hr
+{
+    margin-right:180px;
+    margin-top:-23px;
+}
+
+.features .firstfeatures .display-4
+{
+     font-size:24px;
+}
+    
+    .features .firstfeatures h4
+{
+    margin-bottom: 15px;
+}
+    
+    
+    
+    .features .secondfeatures
+{
+    margin-top:50px;
+}
+
+    
+.features .secondfeatures .card-body span i
+{
+    font-size: 8px;
+}
+
+.features .secondfeatures .card-body span span
+{
+    font-size:20px;
+}
+
+    .features .secondfeatures h4 
+    {
+        font-size:20px;
+    }
+
+
+/* End Section Features */
+    
+    
+     
+    .offer .offerdiv
+{
+    width: 459px;
+   height: 240px; 
+    top:0px;
+    left:0%;
+}
+    
+.offer .offerdiv h4
+{
+    font-size:25px;
+    padding:40px;
+    padding-bottom:5px;
+}
+
+.offer .offerdiv h2
+{
+     margin-bottom: 20px;
+}
+    
+    
+.offer .offerdiv h2
+{
+    font-size:39px;
+}
+    
+    .offer img
+{
+    height:320px;
+}
+    
+    .menu .firstmenu span hr
+{
+    margin-right:200px;
+}
+
+.menu .firstmenu .display-4
+{
+    font-size:37px;
+    font-weight:700;
+    color:#2F2D4E;
+}
+
+.menu .secondmenu
+{
+    margin-top:10px;
+}
+
+    
+ 
+.menu .secondmenu .media .media-body h4
+{
+    font-size: 20px;
+}
+
+.menu .secondmenu .media .media-body h4 span
+{
+     font-size:18px;
+}
+    
+.menu .secondmenu .media .media-body .hrmedia
+{
+    margin-left:155px;
+}
+    .menu .secondmenu .media .media-body p
+{
+    font-size: 14px;
+}
+.Reservation
+{
+   min-height:270px;
+}
+.Reservation .resercolor
+{
+    height:270px;
+    padding: 65px 30px 0px;
+}
+
+.Reservation .resercolor h4
+{
+    font-size:17px;
+     padding-bottom: 10px;
+}
+
+    .Reservation .resercolor h2
+{
+    font-size:23px;
+    padding-bottom: 10px;
+}
+    .chef .firstchef span hr
+{
+    margin-top:-17px;
+    margin-left:110px;
+    margin-right:50px;
+}
+
+.chef .firstchef .display-4
+{
+    font-size:26px;
+}
+    .chef .card img
+    {
+        width:300px;
+        height:350px;
+        margin: auto;
+    }
+.chef .divchef 
+{
+    width:220px;
+    height:75px;
+    background-color:white;
+    margin: auto;
+    margin-top:110px;
+}
+.chef .divchef h4
+{
+ font-size:20px;
+}
+    .chef .divchef p
+{
+ margin-top: 10px;
+}
+ .chef .list-unstyled li i
+{
+    margin-left: 70px;
+}
+  .chef  .colchef
+    {
+        margin-top: 30px;
+    }
+
+.book .firstbook span hr
+{
+    margin-left:145px;
+    margin-right:200px;
+}
+
+.book .firstbook .display-4
+{
+    font-size:30px;
+}
+  .book .firstbook .pbook
+{
+    line-height:24px;
+}
+    .book .card form .btncard
+{
+    width: 190px;
+    height:50px;
+}
+    
+    
+.blog .firstblog span hr 
+{
+     margin-right:250px;
+    margin-top:-20px;
+}
+
+.blog .firstblog .display-4
+{
+    font-size:30px;
+}
+    .blog .card h3
+    {
+        font-size:22px;
+    }
+    
+    .blog .colblog .colblo
+    {
+        margin-top: 20px;
+    }
+    
+    .footer  .copy
+    {
+        font-size:16px;
+    }
+    .footer  .face i {
+    font-size:1em;
+    padding:7px 10px;
+    }
+    
+    .footer  .col-lg-4  ul li .input-group .form-control 
+{
+    height: calc(1.8em + .60rem + 1px);
+    padding: .475rem .85rem;
+    width: 200px;
+}
+
+
+.footer  .col-lg-4  ul li .input-group-text
+{
+    width:50px;
+}
+
+}
+
+
+/* medium */
+@media (min-width:768px) and (max-width:991px)
+{
+    
+    /* Start Section Home */
+    
+       .about , .features ,.offer ,.Reservation ,.menu ,.chef ,.book ,.blog ,.footer
+{
+margin-top:60px;    
+}
+    
+    
+.home .btnhome ,.about .secondabout .btnabout ,.offer .btnoffer ,.Reservation .resercolor .btnreser ,.book .card form .btncard
+{
+    width: 107px;
+    height:40px;
+    font-size: 0.9rem;
+}
+
+    
+      .home
+{
+   margin-top:0px;
+}
+    .home .carousel-inner
+    {
+        margin-left: 40px;
+    }
+    
+    .carousel-indicators {
+    left:340px;
+    bottom:130px;
+}
+    
+    
+    .home .starthome
+{
+    
+    margin-left:10px;
+    margin-top:20px;
+}
+    
+    
+.home .watchimg
+{
+    margin-top:-30px;
+    margin-left:135px;
+}
+    
+    .home .linkhome
+{
+margin-right:-35px;
+    font-size: 15px;
+}
+    
+    .home .watchimg img
+{
+   width:20px;
+    height:20px;
+}
+
+.home .h1
+{
+    font-size:30px;
+    margin-right:-65px;
+}
+    
+  .home .imghome
+    {
+        height:390px;
+        width:330px;
+    }
+    
+.home .listdiv ,.home .block
+    {
+        display: none;
+    }
+    
+    /* End Section Home */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    /* Start Section About */
+
+.about .secondabout span hr
+{
+    margin-left:115px;
+    margin-right:80px;
+}
+
+
+
+.about .secondabout .display-4
+{
+    font-size:23px;
+}
+
+.about .secondabout p
+{
+    
+    padding-top:15px;
+    }
+
+.about .firstabout .twoimage
+{
+    width:260px;
+    height:270px;
+    top:34%;
+    left:40%;
+} 
+    
+    .about .firstabout .fimage
+{
+     width:260px; 
+    height:90px;
+    
+}
+    
+    .about .secondabout p
+{
+    padding-bottom:20px;
+}
+    /* End Section About */
+    
+    /* Start Section Features */
+
+.features .firstfeatures span hr
+{
+    margin-right:420px;
+    margin-top:-23px;
+}
+
+.features .firstfeatures .display-4
+{
+     font-size:24px;
+}
+    
+    .features .firstfeatures h4
+{
+    margin-bottom: 15px;
+}
+    .features .secondfeatures
+{
+    margin-top:40px;
+}
+
+.features .secondfeatures .card-body span i
+{
+    font-size: 8px;
+}
+
+.features .secondfeatures .card-body span span
+{
+    font-size:20px;
+}
+
+    .features .secondfeatures h4 
+    {
+        font-size:20px;
+    }
+/* End Section Features */
+    .offer .offerdiv
+{
+    width: 380px;
+   height: 280px; 
+    top:60px;
+}
+    
+.offer .offerdiv h4
+{
+    font-size:30px;
+    padding:60px;
+    padding-bottom:15px;
+}
+
+.offer .offerdiv h2
+{
+     margin-bottom: 30px;
+}
+    
+    .offer img
+{
+    height:280px;
+}
+       
+.menu .firstmenu span hr
+{
+    margin-right:420px;
+}
+
+.menu .firstmenu .display-4
+{
+    font-size:37px;
+    font-weight:700;
+    color:#2F2D4E;
+}
+
+.menu .secondmenu
+{
+    margin-top:30px;
+}
+
+    
+ 
+.menu .secondmenu .media .media-body h4
+{
+    font-size: 20px;
+}
+
+.menu .secondmenu .media .media-body h4 span
+{
+     font-size:18px;
+}
+    
+.menu .secondmenu .media .media-body .hrmedia
+{
+    margin-left:155px;
+}
+    .menu .secondmenu .media .media-body p
+{
+    font-size: 14px;
+}
+    .chef  .colch
+    {
+        margin-top: 30px;
+    }
+    
+    .chef .divchef 
+{
+    width:290px;
+    height:75px;
+    margin-top:140px;
+}
+/* End Section Chef */
+/* Start Section Book */
+
+.book .firstbook span hr
+{
+    margin-left:145px;
+    margin-right:40px;
+}
+
+.book .firstbook .display-4
+{
+    font-size:34px;
+}
+  .book .firstbook .pbook
+{
+    line-height:26px;
+}
+    .book .card form .btncard
+{
+    width: 150px;
+    height:45px;
+}
+ 
+
+.blog .firstblog span hr 
+{
+     margin-right:450px;
+    margin-top:-23px;
+}
+
+.blog .firstblog .display-4
+{
+    font-size:30px;
+}
+    .blog .card h3
+    {
+        font-size:24px;
+    }
+    
+    .blog .colblog
+    {
+        margin-top: 20px;
+    }
+   
+}
+
+/* large */
+@media (min-width:992px) and (max-width:1199px)
+{
+      .home
+{
+   margin-top:30px;
+}
+
+.home .h1
+{
+    font-size:48px;    
+}
+    
+  .home .imghome
+    {
+        height:450px;
+        width:430px;
+    }
+    
+.home .starthome
+
+{
+    
+    margin-left:35px;
+}
+    
+    .home .linkhome
+{
+margin-right:-15px;
+}
+
+.home .watchimg
+{
+    margin-top:15px;
+    margin-left:75px;
+}
+
+.home  .homeh5
+{
+    font-size:16px;
+    margin-left:3px;
+    margin-right:-20px;
+    font-weight:700;
+}
+
+.carousel-indicators {
+    left:390px;
+    bottom:160px;
+}
+    
+    .home .listdiv
+{
+    top:180px;
+    left:20px;
+}
+    
+    .home .listdiv .list-unstyled li i
+{
+    font-size:20px;
+}
+
+    .about , .features ,.offer ,.Reservation ,.menu ,.chef ,.book ,.blog ,.footer
+{
+margin-top:100px;    
+}
+    /* Start Section Home */
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    /* Start Section About */
+
+.about .secondabout span hr
+{
+    margin-left:115px;
+    margin-right:160px;
+}
+
+
+
+.about .secondabout .display-4
+{
+    font-size:30px;
+}
+
+.about .secondabout p
+{
+    color:gray;
+    text-transform: capitalize;
+    line-height:27px;
+    font-size:15px;
+    text-align: justify;
+    padding-top:20px;
+    padding-bottom:27px;
+}
+
+.about .firstabout .twoimage
+{
+    width:260px;
+    height:270px;
+} 
+    
+/* End SEction About */
+    
+    
+  /* Start Section Features */
+
+.features .firstfeatures span hr
+{
+    margin-right:20px;
+    margin-top:-23px;
+}
+
+.features .firstfeatures .display-4
+{
+     font-size:35px;
+}
+    
+    .features .firstfeatures h4
+{
+    margin-bottom: 15px;
+}
+    .features .secondfeatures
+{
+    margin-top:50px;
+}
+
+
+/* End Section Features */
+    
+/* Start Section Offer */
+.offer .offerdiv
+{
+    width: 450px;
+   height: 360px;  
+}
+    
+.offer .offerdiv h4
+{
+    font-size:40px;
+    padding:60px;
+    padding-bottom:15px;
+}
+
+.offer .offerdiv h2
+{
+     margin-bottom: 40px;
+    
+}
+    
+    .offer img
+{
+    height:330px;
+}
+/* End Section Offer */
+.menu .firstmenu span hr
+{
+    margin-left:140px;
+    margin-right:60px;
+}
+.menu .secondmenu
+{
+    margin-top:50px;
+}
+
+.menu .firstmenu .display-4
+{
+    font-size:35px;
+}
+    
+     /* Start Section Chef */
+.chef .firstchef span hr
+{
+    margin-top:-17px;
+    margin-left:120px;
+    margin-right:140px;
+}
+
+.chef .firstchef .display-4
+{
+    font-size:34px;
+}
+
+/* End Section Chef */
+    
+    /* Start Section Book */
+
+
+.book .firstbook span hr
+{
+    margin-right:140px;
+}
+
+.book .firstbook .display-4
+{
+    font-size:36px;
+    font-weight:600;
+    color:#2F2D4E;
+}
+
+/* End Section Book */
+  .blog .firstblog h4
+{
+   margin-bottom: 15px;
+}
+
+.blog .firstblog span hr 
+{
+     margin-right:700px;
+    margin-top:-23px;
+}
+
+    .blog .firstblog .display-4
+{
+    font-size:35px;
+    }
+     .blog .card h3
+    {
+        font-size:24px;
+    }
+    }
+
+/* Default:: xlarge */
+@media (min-width:1200px) 
+{
+    
+}

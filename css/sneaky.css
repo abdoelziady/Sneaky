@@ -1,0 +1,650 @@
+.about , .features ,.offer ,.Reservation ,.menu ,.chef ,.book ,.blog ,.footer
+{
+margin-top:160px;    
+}
+
+.home .btnhome ,.about .secondabout .btnabout ,.offer .btnoffer ,.Reservation .resercolor .btnreser ,.book .card form .btncard
+{
+    background-color:#F72103;
+    border: 1px solid #F72103;
+    width: 160px;
+    color: white;
+    height:50px;
+    font-size: 1rem;
+    font-weight:500;
+    border-radius: 30px;
+}
+
+
+
+.home .btnhome:hover ,.about .secondabout .btnabout:hover ,.offer .btnoffer:hover ,.Reservation .resercolor .btnreser:hover ,.book .card form .btncard:hover
+{
+     background-color:white;
+     border: 1px solid #F72103;
+    color:#F72103;
+}
+
+/* color: #F72103; black; */
+
+
+/* Start Navbar */
+
+.navbar-toggler {
+    font-size: 1.75rem;
+    line-height: 1;
+    color: black;
+    background-color:transparent;
+    border: 1px solid transparent;
+    border-radius: 0rem;
+}
+
+.navbar-toggler:hover
+{color: #F72103;
+}
+.navbar .navbar-brand
+{
+    font-size:30px;
+    color:black;
+}
+
+
+.navbar .navbar-brand span
+{
+    font-size:31px;
+    font-weight:700;
+    color:#F72103;
+}
+
+ .navbar-expand-lg
+{
+    background-color: #7676FF;
+}
+
+
+.navbar .navbar-nav
+{
+    margin-left:540px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link
+{
+    color:black;
+    margin-left:15px;
+    font-size:15px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover
+{
+    color:#F72103;
+}
+
+
+.navbar .dropdown-item
+{
+    color:#F72103;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+
+.navbar .dropdown-divider {
+   margin: 0 0; 
+}
+.navbar .dropdown-menu
+{
+    padding: 0 0;
+    margin:0 0;
+}
+
+.navbar .dropdown-item:hover
+{
+    color:white;
+    background-color:#F72103;
+}
+
+
+/* End Navbar*/
+
+/* Start Home Section */
+
+.home .listdiv
+{
+    position:absolute;
+    top:260px;
+    left:40px;
+}
+
+.home .listdiv .list-unstyled li i
+{
+    font-size:23px;
+    padding-top:40px;
+   color:#2F2D4E;
+}
+
+.home
+{
+   margin-top:30px;
+}
+
+.home .h1
+{
+    font-size:65px;
+    font-weight:600;
+    color:#2F2D4E;
+}
+
+ .home .imghome
+    {
+        height:600px;
+        width:600px;
+    }
+
+.home .linkhome
+{
+    font-weight: 500;
+    color:black;
+}
+
+ .home .linkhome:hover
+{
+    text-decoration: none;
+ color:#007bff;
+
+}
+
+.home .watchimg
+{
+    margin-top:15px;
+    margin-left:35px;
+}
+
+.home .watchimg img
+{
+   width:25px;
+    height:25px;
+}
+
+   .home .starthome
+{
+    margin-top: 50px;
+}
+    
+
+.home .linkhome
+{
+    font-weight: 500;
+margin-left:15px;
+    color:black;
+}
+
+
+.home  .homeh5
+{
+    font-size:18px;
+    margin-left:7px;
+}
+
+ .carousel-indicators li
+{ border-radius:50%;
+    background-color:gray;  
+    width:8px;
+ height: 10px; 
+    padding-left:3px; 
+    margin-right:15px;}
+
+.carousel-indicators .active
+{
+    background-color: #F72103;
+}
+
+.carousel-indicators {
+    position: absolute;
+    display:block;
+    left:500px;
+    bottom:230px;
+}
+
+
+/* End Home Section */
+
+    /* Start Section About */
+
+.about .secondabout h4
+{
+    color:#F72103;
+}
+
+.about .secondabout span hr
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:115px;
+    margin-right:230px;
+}
+
+
+
+.about .secondabout .display-4
+{
+    font-size:50px;
+   font-weight:600;
+    color:#2F2D4E;
+}
+
+.about .secondabout p
+{
+    color:gray;
+    text-transform: capitalize;
+    line-height:27px;
+    font-size:15px;
+    text-align: justify;
+    padding-top:27px;
+    padding-bottom:27px;
+}
+.about .firstabout .fimage
+{
+     width:380px; 
+    height:180px;
+}
+.about .firstabout .twoimage
+{
+    position:absolute;
+    top:44%;
+    right:10%;
+    width:290px;
+    height:320px;
+} 
+
+/* End Section About */
+
+/* Start Section Features */
+
+.features .firstfeatures h4
+{
+    color:#F72103;
+}
+
+.features .firstfeatures span hr
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:170px;
+    margin-right:80px;
+}
+
+.features .firstfeatures .display-4
+{
+     font-size:50px;
+   font-weight:600;
+    color:#2F2D4E;
+}
+
+.features .secondfeatures
+{
+    margin-top:50px;
+}
+
+.features .secondfeatures h4
+{
+     color:#2F2D4E;
+}
+
+.features .secondfeatures .card-body
+{
+    background-color:rgba(243,243,243,0.5);
+}
+
+.features .secondfeatures .card-body span i
+{
+    padding-left:5px;
+    color:darkorange;
+}
+
+.features .secondfeatures .card-body span span
+{
+    padding-left:150px;
+    font-size:24px;
+    font-weight:600;
+    color:#F72103;
+}
+.features .secondfeatures p
+{
+     color:#BCB9B9;
+}
+
+
+/* End Section Features */
+
+/* Start Section Offer */
+.offer .offerdiv
+{
+    background-color:#F72103;
+    text-align: center;
+    color:white;
+    width: 550px;
+   height: 100%;  
+    position:relative;
+    right: 120px;
+    top:75px;
+}
+
+.offer img
+{
+    width:100%;
+}
+
+.offer .offerdiv h4
+{
+    font-size:40px;
+    padding:90px;
+    padding-bottom:15px;
+}
+
+.offer .offerdiv h2
+{
+    font-size:59px;
+     margin-bottom: 20px;
+}
+
+.offer .btnoffer
+{
+    border: 1px solid white;   
+}
+
+/* End Section Offer */
+
+
+/* Start Section Menu */
+.menu .firstmenu h4
+{
+    color:#F72103;
+    font-weight:600;
+}
+
+.menu .firstmenu span hr
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:150px;
+    margin-right:100px;
+}
+
+.menu .firstmenu .display-4
+{
+    font-size:47px;
+    font-weight:700;
+    color:#2F2D4E;
+}
+
+.menu .secondmenu
+{
+    margin-top:100px;
+}
+
+.menu .secondmenu .media .media-body h4
+{
+    font-weight:700;
+    color:#2F2D4E;
+}
+
+.menu .secondmenu .media .media-body h4 span
+{
+ float:right;
+     font-size:20px;
+    font-weight:700;
+    color:#F72103;
+}
+
+.menu .secondmenu .media .media-body .hrmedia
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:195px;
+    margin-right:45px;
+}
+
+.menu .secondmenu .media .media-body p
+{
+    color:gray;
+    
+}
+/* End Section Menu */
+
+
+/* Start Section Reservation */
+.Reservation
+{
+   min-height:400px;
+    text-align: center;
+    background-image:url(../img/cta-bg.png);
+}
+.Reservation .resercolor
+{
+    height:400px;
+    background-color: rgba(3,3,3,0.7);
+    padding: 110px 130px 0px;
+    color:white;
+}
+
+.Reservation .resercolor h4
+{
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+/* End Section Reservation */
+ /* Start Section Chef */
+.chef .firstchef h4
+{
+    color:#F72103;
+    font-weight:600;
+}
+
+.chef .firstchef span hr
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:120px;
+    margin-right:190px;
+}
+
+.chef .firstchef .display-4
+{
+    font-size:47px;
+    font-weight:700;
+    color:#2F2D4E;
+}
+
+ .chef .list-unstyled li i
+{
+    font-size:18px;
+    padding-top:20px;
+    color:#2F2D4E;
+}
+
+ .chef .list-unstyled li i:hover
+{
+    font-size:26px;
+}
+
+.chef .divchef 
+{
+    width:320px;
+    height:85px;
+    background-color:white;
+    margin-top: 160px;
+    margin-left: -5px;
+}
+.chef .divchef h4
+{
+ color: #2F2D4E;
+    font-weight: 700;
+}
+
+
+/* End Section Chef */
+
+/* Start Section Book */
+.book .firstbook h4
+{
+    color:#F72103;
+    }
+
+.book .firstbook
+{
+    margin-top: 100px;
+}
+
+.book .firstbook span hr
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:145px;
+    margin-right:200px;
+}
+
+.book .firstbook .display-4
+{
+    font-size:48px;
+    font-weight:600;
+    color:#2F2D4E;
+}
+
+.book .firstbook .pbook
+{
+    line-height:28px;
+}
+
+.book .card
+{
+    background:url(../img/reservation-bg.png) no-repeat center center;
+    border-radius: 0rem;
+    min-height:500px;
+}
+
+.book .card .abdo
+{
+    background-color: rgba(3,3,3,0.5);
+    min-height:500px;
+}
+
+.book .card form
+{
+    padding-top:40px;
+}
+
+.book .card form .input-group .form-control 
+{
+    height: calc(2em + .90rem + 2px);
+    padding: .575rem .95rem;
+    border: 0px;
+}
+
+.book .card form .btncard
+{
+    width: 210px;
+    color: white;
+    height:50px;
+}
+
+.book .card form .input-group-text
+{
+    background-color: white;
+    border: 0px;
+}
+
+
+
+/* End Section Book */
+  /*Start Section Blog */
+.blog .firstblog h4
+{
+    color:#F72103;
+    font-weight:600;
+}
+
+.blog .firstblog span hr 
+{
+    border:1px solid #9DA0A7;
+    margin-top:-17px;
+    margin-left:120px;
+    margin-right:880px;
+}
+
+.blog .firstblog .display-4
+{
+    font-size:47px;
+    font-weight:700;
+    color:#2F2D4E;
+}
+/* End Section Blog */
+
+/* Start Section Footer */
+.footer 
+{
+    min-height:450px;
+}
+
+.footer  .col-lg-4 h4
+{
+    padding-bottom: 15px;
+    color:#2F2D4E;
+}
+
+.footer .col-lg-4  ul li ,.footer  .copy
+{
+    padding-bottom: 10px;
+    color:#6c757d;
+}
+
+
+.footer  .col-lg-4  ul li .input-group .form-control 
+{
+    height: calc(2em + .90rem + 2px);
+    padding: .575rem .95rem;
+    border: 0px;
+}
+
+
+.footer  .col-lg-4  ul li .input-group-text
+{
+    background-color: #F72103;
+    width:55px;
+    color: white;
+    border: 0px;
+}
+
+.footer  .col-lg-4  ul li .input-group-text:hover
+{
+    color: #2F2D4E;
+    cursor: pointer;
+}
+
+.footer .col-lg-4  ul li .input-group-prepend i
+{
+   font-size:23px;
+    padding-left:7px;
+}
+
+.footer  .face i {
+    background-color: #2F2D4E;
+    cursor: pointer;
+    color: white;
+    font-size:1.1em;
+    padding:10px 10px;
+    margin-left:7px;
+    
+}
+
+.footer .face i:hover {
+    background-color: #F72103;
+}
+
+
+/* End Section Footer   */ 
+/* //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+
